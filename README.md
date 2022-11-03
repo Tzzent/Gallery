@@ -36,10 +36,10 @@
 
 ## Overview
 
-💻Desktop
+💻Desktop <br>
 ![Screenshot 2022-11-03 at 14-03-34 Gallery](https://user-images.githubusercontent.com/86677547/199814867-10b247f1-6f8e-4e44-b912-0727b5f6e39e.png)
-
-📱Mobile
+<br>
+📱Mobile<br>
 ![Screenshot 2022-11-03 at 14-20-56 Gallery](https://user-images.githubusercontent.com/86677547/199814883-adc7f104-0e59-4788-96d4-827520f7c350.png)
 
 ### Built With
